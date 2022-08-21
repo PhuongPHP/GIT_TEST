@@ -1,4 +1,3 @@
-main add file nữa này
 ĐÂY LÀ CODE MAIN Ổ C
 THÊM LẠI MODEL
 SỬA LẠI CODE c

@@ -1,7 +1,5 @@
 test add 1 nhanh phuong
-
-dev
-dev
-dev
-dev
-dev
+ĐÂY LÀ CODE MAIN Ổ C
+THÊM LẠI MODEL
+SỬA LẠI CODE c
+TỐI ƯU CODE
