@@ -2,6 +2,7 @@ phuong-dev ổ D
 ==============
 push code update phuong-dev-dev
 RỒI H PHUONG-DEV LẤY API Ổ D code
+rồi bây h ta code tiếp nha D
 
 main- ổ c
 ==============
