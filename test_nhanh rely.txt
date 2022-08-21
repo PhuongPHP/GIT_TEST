@@ -3,6 +3,7 @@ phuong-dev ổ D
 push code update phuong-dev-dev
 RỒI H PHUONG-DEV LẤY API Ổ D code
 rồi bây h ta code tiếp nha D
+NHA TH4M
 
 main- ổ c
 ==============
@@ -11,3 +12,4 @@ main- ổ c
 Ổ C
 c bắt đầu code tiếp
 D CODE
+CODE ĐÂY DDDDDDDDDDD
