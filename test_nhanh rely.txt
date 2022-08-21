@@ -7,7 +7,6 @@ rồi bây h ta code tiếp nha D
 main- ổ c
 ==============
 ĐÂY LÀ CODE MAIN Ổ C
-đây là api man code
-Ổ C
-c bắt đầu code tiếp
-D CODE
+THÊM LẠI MODEL
+SỬA LẠI CODE c
+TỐI ƯU CODE
