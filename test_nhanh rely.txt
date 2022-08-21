@@ -4,12 +4,9 @@ push code update phuong-dev-dev
 RỒI H PHUONG-DEV LẤY API Ổ D code
 rồi bây h ta code tiếp nha D
 NHA TH4M
-
 main- ổ c
 ==============
 ĐÂY LÀ CODE MAIN Ổ C
-đây là api man code
-Ổ C
-c bắt đầu code tiếp
-D CODE
-CODE ĐÂY DDDDDDDDDDD
+THÊM LẠI MODEL
+SỬA LẠI CODE c
+TỐI ƯU CODE
